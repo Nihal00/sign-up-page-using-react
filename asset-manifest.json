@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sign-up-page-using-react/static/css/main.a21510f5.css",
+    "main.js": "/sign-up-page-using-react/static/js/main.c3c75d49.js",
+    "static/js/787.346bcb15.chunk.js": "/sign-up-page-using-react/static/js/787.346bcb15.chunk.js",
+    "static/media/pagelogo.png": "/sign-up-page-using-react/static/media/pagelogo.03837647ad69e159b898.png",
+    "index.html": "/sign-up-page-using-react/index.html",
+    "main.a21510f5.css.map": "/sign-up-page-using-react/static/css/main.a21510f5.css.map",
+    "main.c3c75d49.js.map": "/sign-up-page-using-react/static/js/main.c3c75d49.js.map",
+    "787.346bcb15.chunk.js.map": "/sign-up-page-using-react/static/js/787.346bcb15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a21510f5.css",
+    "static/js/main.c3c75d49.js"
+  ]
+}
